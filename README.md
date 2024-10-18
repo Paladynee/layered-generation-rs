@@ -1,10 +1,8 @@
+![output](https://github.com/user-attachments/assets/07bf0985-ec72-4a0d-a674-62bda8a0c28e)
+
 # Layered generation
 
-the image below (1024x768) was generated in 11.14ms
-
-optimized using rayon
-
-![output](https://github.com/user-attachments/assets/07bf0985-ec72-4a0d-a674-62bda8a0c28e)
+the image above (1024x768) was generated in 11.14ms, optimized using rayon
 
 # Installation
 
